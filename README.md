@@ -1,1 +1,3 @@
-# website-freelancer-course-bwa-
+Website Freelancer with Laravel (course BWA)
+
+UPDATE SOON
